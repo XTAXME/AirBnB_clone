@@ -1,12 +1,8 @@
  0x05. AirBnB clone - RESTful API
 PythonBack-endAPIWebserverFlask
 
-    By: Guillaume, CTO at Holberton School
-    Weight: 2
-    Project to be done in teams of 2 people (your team: Stanley Anyumba, Margaret Wangechi)
-    Project will start Feb 1, 2024 6:00 AM, must end by Feb 6, 2024 6:00 AM
-    Checker will be released at Feb 2, 2024 12:00 PM
-    An auto review will be launched at the deadline
+    By:taha,at alx School
+    
 
 Concepts
 
